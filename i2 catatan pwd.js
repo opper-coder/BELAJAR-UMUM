@@ -25,3 +25,7 @@ CATATAN PASSWORD
 
 5. al.ikhlas.saiti@gmail.com
    pass: masjidsaiti123
+   
+6. figma
+   username: sonysono1112@gmail.com
+   pass: izza1212 / atau aqil1212 atau silmi1212 lupa
