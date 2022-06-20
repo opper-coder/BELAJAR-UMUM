@@ -32,7 +32,7 @@ CATATAN PASSWORD
 
 7. figma
    username: opperofficial@gmail.com
-   pass: silmi1212 / izza1212
+   pass: izza1212 / silmi1212 
    
 8. shopee
    username : 0822 59 248 482
