@@ -29,3 +29,11 @@ CATATAN PASSWORD
 6. figma
    username: sonysono1112@gmail.com
    pass: izza1212 / atau aqil1212 atau silmi1212 lupa
+
+7. figma
+   username: opperofficial@gmail.com
+   pass: silmi1212
+   
+8. shopee
+   username : 0822 59 248 482
+   pass: izzA1212
