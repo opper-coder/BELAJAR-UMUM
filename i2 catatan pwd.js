@@ -1,6 +1,6 @@
 CATATAN PASSWORD
 
-1. SAITIMOBILE
+1. SAITIMOBILE jagoan hosting
 
   hosting: jagoanhosting.com
   email: desasaiti9@gmail.com
@@ -10,7 +10,21 @@ CATATAN PASSWORD
   user: saitimob_dbsaiti
   pass: saitimobile
 
-2. OPPEROFFICIAL
+1.a SAITIMOBILE2
+
+  hosting: jagoanhosting.com
+  email: opperofficial@gmail.com
+  pass: izza1212
+  pass admin dasboard
+  
+  name : saitimo1
+  pass : aqil1212
+  
+  db: saitimob
+  user: saitimo1???
+  pass: saitimob123???
+
+2. OPPEROFFICIAL EMAIL
   email: opperofficial@gmail.com
   pass: kataindah1212
   
