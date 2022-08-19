@@ -51,3 +51,7 @@ CATATAN PASSWORD
 8. shopee
    username : 0822 59 248 482
    pass: izzA1212
+   
+9. kodular
+   email: opperofficial@gmail.com
+   pass: izza1212
