@@ -21,8 +21,8 @@ CATATAN PASSWORD
   pass : aqil1212
   
   db: saitimob
-  user: saitimo1???
-  pass: saitimob123???
+  user: saitimo1-wp16
+  pass: rooter
 
 2. OPPEROFFICIAL EMAIL
   email: opperofficial@gmail.com
