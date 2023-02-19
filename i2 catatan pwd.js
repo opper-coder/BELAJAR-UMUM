@@ -55,3 +55,10 @@ CATATAN PASSWORD
 9. kodular
    email: opperofficial@gmail.com
    pass: izza1212
+   
+10. xmind
+   email: opperofficial@gmail.com
+   pass: L@4stt4UQ8DVZQC
+11. tinkercad
+    with google:   opperofficial@gmail.com
+   
