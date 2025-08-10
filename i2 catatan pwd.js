@@ -89,8 +89,23 @@ aqilizzaA11!/&*789
 starlink
 sonysono1112@gmail.com
 aqilizzaA11!/&*789
---------------
+=================================== 
 ClientVPS
 opperofficial@gmail.com
 kataindah1212
---------------------------------------------------------------------- 
+===================================
+Akses SSH via putty:
+IP: 5.223.62.223
+  Nama Pengguna: root
+  Kata Sandi: AkFFtpcsXbaL4PMrJagF <-> izzaA11!
+===================================
+PAYEER
+Login: P1133204699
+Password: w7W2vJn3
+  E-mail: opperofficial@gmail.com
+  Secret code: 96666654
+  Master key: 059
+===================================
+VOLET (PALING TAPI)
+  opperofficial@gmail.com
+  9YN0M@y20g-aqilizza
