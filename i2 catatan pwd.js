@@ -70,4 +70,27 @@ CATATAN PASSWORD
     pass: izza1212
     firstname : opper
     lastname: official
-   
+--------------------------------------------------------------------- 
+bri
+sonisola1112
+aqilizzaA11!/&*789
+141414
+--------------
+jago
+797878
+aqilizzaA11!/&*789
+141414
+--------------
+seabank
+797878
+aqilizzaA11!/&*789
+112236
+--------------
+starlink
+sonysono1112@gmail.com
+aqilizzaA11!/&*789
+--------------
+ClientVPS
+opperofficial@gmail.com
+kataindah1212
+--------------------------------------------------------------------- 
