@@ -121,3 +121,27 @@ No Telp: 081334797878
 Alamat: desa Saiti kec. Nuhon Kab. Banggai Sulawesi Tengah
 Kota: kecamatan Nuhon
 Kode Pos: 94753
+
+-------------- 
+MIKROTIK.COM
+Registration type: V Natural person  x Legal person
+First name: sony
+Last name: harsono
+E-mail: opperofficial@gmail.com
+Residential: kecamatan Nuhon
+Country: Indonesia
+
+Indonesia
+Province/state or region: sulawesi tengah
+City: Banggai
+Postcode: 94753
+Address: desa Saiti 
+kecamatan: Nuhon
+Phone Number: 081334797878
+Website URL
+My location
+Pick from map
+-0.922824,122.207835
+Allow to use my account from netinstall and winbox
+
+--------------  
